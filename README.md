@@ -1,7 +1,7 @@
 # Hi, I'm Begüm Alakuş 👋
 
 **Software Engineer | Mobile (React Native) & AI-Integrated Systems (Node.js | Python)**  
-Developing production-level cross-platform applications at **Eterna Teknoloji**. Focused on building high-performance mobile apps, robust backend APIs, and integrating AI/ML models into real-world client architectures.
+Focused on building high-performance cross-platform mobile apps, robust backend APIs, and integrating AI/ML models into real-world client architectures.
 
 ---
 
