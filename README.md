@@ -7,11 +7,9 @@ Focused on building high-performance cross-platform mobile apps, robust backend 
 
 ### 🛠️ Core Tech Stack
 
-* **Mobile:** React Native, Expo, TypeScript, JavaScript, Redux / Zustand, Performance Profiling
-* **Backend & APIs:** Node.js, Fastify, Express, Python (FastAPI / Flask), RESTful APIs, WebSockets
-* **Databases & ORMs:** PostgreSQL, Prisma, Supabase, MongoDB
-* **Applied AI & Computer Vision:** Python, YOLOv8, OpenCV, NumPy, Fuzzy Logic Decision Systems, On-Device/Cloud Model Integration
-* **Engineering Principles:** Clean Architecture, Modular Code, Asynchronous Systems, CI/CD Baselines
+* **Mobile:** React Native, Expo, TypeScript, JavaScript, Redux / Zustand
+* **Backend & Databases:** Node.js (Fastify / Express), Python (FastAPI), PostgreSQL, Prisma, Supabase, MongoDB
+* **AI & Computer Vision:** OpenCV, YOLOv8, Fuzzy Logic, NumPy
 
 ---
 
