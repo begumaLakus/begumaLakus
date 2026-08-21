@@ -1,38 +1,37 @@
 # Hi, I'm Begüm Alakuş 👋
 
-### 🎓 Computer Engineering Student | AI & Mobile Development
-I am a senior Computer Engineering student at **Zonguldak Bülent Ecevit University**, focusing on building intelligent applications that bridge the gap between **Artificial Intelligence** and **Mobile Experience**.
+**Software Engineer | Mobile (React Native) & AI-Integrated Systems (Node.js | Python)**  
+Developing production-level cross-platform applications at **Eterna Teknoloji**. Focused on building high-performance mobile apps, robust backend APIs, and integrating AI/ML models into real-world client architectures.
 
 ---
 
-### 🚀 Technical Focus & Expertise
-I specialize in developing scalable backend systems and integrating computer vision models into real-world solutions.
+### 🛠️ Core Tech Stack
 
-- **Languages:** Python, JavaScript, SQL
-- **Backend & DB:** Node.js, Express, PostgreSQL, MongoDB
-- **Mobile & Web:** React Native, React
-- **AI & Computer Vision:** OpenCV, YOLOv8, NumPy, K-Means Clustering
-- **Tools:** Git, RESTful APIs, Agile Methodologies
-
----
-
-### 🛠️ Featured Projects
-My work often explores the intersection of academic research and practical software engineering:
-
-- **OwnWay (AI Career Management):** Developing a scalable Node.js API to provide personalized career recommendations. *Project applied for TÜBİTAK 2209-A research program.*
-- **Color Blindness Enhancement:** An image processing system utilizing LMS color space and K-Means clustering to assist individuals with Deuteranopia.
-- **Turkish Tile Art Detection:** A computer vision system built with YOLOv8 and Streamlit to classify traditional motifs.
+* **Mobile:** React Native, Expo, TypeScript, JavaScript, Redux / Zustand, Performance Profiling
+* **Backend & APIs:** Node.js, Fastify, Express, Python (FastAPI / Flask), RESTful APIs, WebSockets
+* **Databases & ORMs:** PostgreSQL, Prisma, Supabase, MongoDB
+* **Applied AI & Computer Vision:** Python, YOLOv8, OpenCV, NumPy, Fuzzy Logic Decision Systems, On-Device/Cloud Model Integration
+* **Engineering Principles:** Clean Architecture, Modular Code, Asynchronous Systems, CI/CD Baselines
 
 ---
 
-### 🤝 Leadership & Community
-I believe in the power of the developer community and active knowledge sharing:
+### 🚀 Production & Featured Work
 
-- **GDG Zonguldak (Core Team Member):** Managing sponsorship and end-to-end operational processes for tech events.
-- **GDSC Zonguldak (Former Sponsorship Lead):** Led partnership outreach and conducted technical workshops on Git & GitHub.
+* **Beatify (Eterna Teknoloji):** Contributed to feature integration and UI/UX performance optimization for a live production application available on the App Store.
+* **OwnWay (TÜBİTAK 2209-A Supported):** Full-stack career decision-support platform built with a high-performance backend, PostgreSQL database architecture, and a React Native client.
+* **SkinLogic:** Mobile application utilizing React Native and Supabase, implementing Fuzzy Logic decision algorithms and OCR pipelines.
+* **Tile Art Detection & Pixel Art Engine:** Algorithmic image processing and computer vision pipelines built with YOLOv8, Python, and custom pixel manipulation logic.
 
 ---
 
-### 📫 Let's Connect
-- 💼 **LinkedIn:** [linkedin.com/in/begumalakus](https://linkedin.com/in/begumalakus)
-- 📧 **Email:** begumaalakus3@gmail.com
+### 🤝 Community & Leadership
+
+* **GDG Zonguldak:** Core Team Member — Sponsorship & Event Operations for tech summits.
+* **GDSC Zonguldak:** Former Sponsorship Lead — Mentored 70+ students on Git/GitHub workflows and managed corporate partnerships.
+
+---
+
+### 📫 Connect with Me
+
+* **LinkedIn:** [linkedin.com/in/begumalakus](https://linkedin.com/in/begumalakus)
+* **Email:** [begumaalakus3@gmail.com](mailto:begumaalakus3@gmail.com)
