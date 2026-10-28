@@ -1,35 +1,62 @@
-# Hi, I'm Begüm Alakuş 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif" width="150" alt="" />
+</p>
 
-****Software Engineer | Backend (Node.js, PostgreSQL) · Mobile (React Native) · Real-time & AI-Integrated Systems****  
-Focused on building high-performance cross-platform mobile apps, robust backend APIs, and integrating AI/ML models into real-world client architectures.
+<br />
 
----
+<h1 align="center">Begüm Alakuş</h1>
 
-### 🛠️ Core Tech Stack
+<p align="center"><em>software engineer who builds backends, mobile apps and things that fly</em></p>
 
-* **Mobile:** React Native, Expo, TypeScript, JavaScript, Redux / Zustand
-* **Backend & Databases:** Node.js (Fastify / Express), Python (FastAPI), PostgreSQL, Prisma, Supabase, MongoDB
-* **AI & Computer Vision:** OpenCV, YOLOv8, Fuzzy Logic, NumPy
+<p align="center"><strong>Backend · Mobile · Real-time Systems · AI</strong></p>
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/begumalakus">linkedin</a> ·
+  <a href="mailto:begumaalakus3@gmail.com">email</a>
+</p>
 
-### 🚀 Production & Featured Work
-
-* **Beatify (Eterna Teknoloji):** Contributed to feature integration and UI/UX performance optimization for a live production application available on the App Store.
-* **OwnWay (TÜBİTAK 2209-A Supported):** Full-stack career decision-support platform built with a high-performance backend, PostgreSQL database architecture, and a React Native client.
-* **SkinLogic:** Mobile application utilizing React Native and Supabase, implementing Fuzzy Logic decision algorithms and OCR pipelines.
-* **Tile Art Detection & Pixel Art Engine:** Algorithmic image processing and computer vision pipelines built with YOLOv8, Python, and custom pixel manipulation logic.
+<br />
 
 ---
 
-### 🤝 Community & Leadership
+### what I work with
 
-* **GDG Zonguldak:** Core Team Member — Sponsorship & Event Operations for tech summits.
-* **GDSC Zonguldak:** Former Sponsorship Lead — Mentored 70+ students on Git/GitHub workflows and managed corporate partnerships.
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,py,fastapi,postgres,prisma,supabase,mongodb,react,ts,js,redux,docker&perline=14" alt="tech stack" />
+</p>
+
+- **Backend & databases:** Node.js (Fastify / Express), Python (FastAPI), PostgreSQL, Prisma, Supabase, MongoDB
+- **Mobile:** React Native, Expo, TypeScript, JavaScript, Redux / Zustand
+- **AI & computer vision:** OpenCV, YOLOv8, Fuzzy Logic, NumPy
+- **Systems & drones:** MAVLink, ArduPilot SITL, Docker, real-time telemetry
 
 ---
 
-### 📫 Connect with Me
+### featured work
 
-* **LinkedIn:** [linkedin.com/in/begumalakus](https://linkedin.com/in/begumalakus)
-* **Email:** [begumaalakus3@gmail.com](mailto:begumaalakus3@gmail.com)
+**Drone Uçuş Yöneticisi**
+A fleet management platform that collects live telemetry from ArduPilot SITL drones over MAVLink, tracks usage counters, and manages maintenance status and notifications automatically.
+`Node.js` · `Express` · `Prisma` · `PostgreSQL` · `React` · `Docker`
+
+**OwnWay** · TÜBİTAK 2209-A supported
+A full-stack career decision-support platform with a high-performance backend, a PostgreSQL database architecture and a React Native client.
+
+**Beatify** · Eterna Teknoloji
+Contributed to feature integration and UI/UX performance work for a live production app on the App Store.
+
+**SkinLogic**
+A React Native and Supabase mobile app with Fuzzy Logic decision algorithms and OCR pipelines.
+
+**Tile Art Detection & Pixel Art Engine**
+Image processing and computer vision pipelines built with YOLOv8, Python and custom pixel manipulation logic.
+
+---
+
+### community
+
+- **GDG Zonguldak:** core team member, sponsorship and event operations for tech summits
+- **GDSC Zonguldak:** former sponsorship lead, mentored 70+ students on Git/GitHub workflows and managed corporate partnerships
+
+<br />
+
+<p align="center"><em>keep going, one small step at a time</em></p>
