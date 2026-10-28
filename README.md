@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif" width="100%" alt="" />
+  <img src="https://media.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif" width="620" alt="" />
 </p>
 
 <br />
 
-<h1 align="center">Begüm Alakuş</h1>
+<h1 align="center">Hi, I'm Begüm Alakuş 👋</h1>
 
 <p align="center"><em>software engineer who builds backends, mobile apps and intelligent systems</em></p>
 
