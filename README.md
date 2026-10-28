@@ -1,6 +1,6 @@
 # Hi, I'm Begüm Alakuş 👋
 
-**Software Engineer | Mobile (React Native) & AI-Integrated Systems (Node.js | Python)**  
+****Software Engineer | Backend (Node.js, PostgreSQL) · Mobile (React Native) · Real-time & AI-Integrated Systems****  
 Focused on building high-performance cross-platform mobile apps, robust backend APIs, and integrating AI/ML models into real-world client architectures.
 
 ---
